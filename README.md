@@ -1,2 +1,7 @@
-# TravailARendre
-Voici le travail à rendre
+# TravailARendre  - Scripts des développeurs
+# Description
+Ce projet illustre l'utilisation de JDBC pour interagir avec une base de données MySQL, en effectuant des opérations liées à la gestion des scripts des développeurs. Le projet traite 3 exercices principaux, chacun ayant un objectif spécifique.
+On commence par l'exercice 1 qui contribue à la connexion à la base de données MySQL, création d'une table et insertion de données. Cette partie montre l'établissement d'une connexion avec la base de données, la génération des tables et ainsi l'insértion des informations par JDBC.
+OR l'exercice 2 contribue à la recherche et l'extraction des informations de la base de données par des requêtes SQL, et comment
+les utiliser pour interagir avec la base, notamment en récupérant des informations spécifiques, comme la liste des développeurs et le nombre de scripts réalisés en une semaine . Sans oublier l'exercice 3 qui quant a lui contribue à l'xécution de requêtes libres et extraction de méta informations / données. Ce dernierinsiste sur l'exécution de requêtes fournies par l'utilisateur, et l'affichage des méta données.
+Le projet met en œuvre les objets (Connection, Statement, et ResultSet) pour gérer les requêtes et les résultats, tout en gardant une bonne gestion des ressources. Les résultats de chaque exercice sont affichés dans la console, offrant un aperçu des scripts des développeurs et des détails sur les requêtes exécutées.
